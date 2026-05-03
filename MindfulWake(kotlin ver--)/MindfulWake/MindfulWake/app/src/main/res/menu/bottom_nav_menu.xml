@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/nav_alarms" android:title="Alarms" android:icon="@android:drawable/ic_lock_idle_alarm"/>
+    <item android:id="@+id/nav_create" android:title="Create" android:icon="@android:drawable/ic_input_add"/>
+    <item android:id="@+id/nav_settings" android:title="Settings" android:icon="@android:drawable/ic_menu_manage"/>
+    <item android:id="@+id/nav_stats" android:title="Stats" android:icon="@android:drawable/stat_sys_data_bluetooth"/>
+    <item android:id="@+id/nav_weather" android:title="Weather" android:icon="@android:drawable/ic_menu_compass"/>
+</menu>
